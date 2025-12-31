@@ -12,8 +12,17 @@
 |-------|------|
 | IQuest-Coder-V1-7B-Instruct | [🤗 Hugging Face](https://huggingface.co/IQuestLab/IQuest-Coder-V1-7B-Instruct) |
 | IQuest-Coder-V1-7B-Thinking | [🤗 Hugging Face](https://huggingface.co/IQuestLab/IQuest-Coder-V1-7B-Thinking) |
+| IQuest-Coder-V1-40B-Base-Stage1 | [🤗 Hugging Face](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Base-Stage1) |
+| IQuest-Coder-V1-40B-Base | [🤗 Hugging Face](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Base) |
 | IQuest-Coder-V1-40B-Instruct | [🤗 Hugging Face](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Instruct) |
 | IQuest-Coder-V1-40B-Instruct-Int4 | [🤗 Hugging Face](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Instruct-Int4) |
+| IQuest-Coder-V1-40B-Thinking | [🤗 Hugging Face](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Thinking) |
+| IQuest-Coder-V1-40B-Thinking-Int4 | [🤗 Hugging Face](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Thinking-Int4) |
+| IQuest-Coder-V1-40B-Loop-Instruct | [🤗 Hugging Face](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Loop-Instruct) |
+| IQuest-Coder-V1-40B-Loop-Instruct-Int4 | [🤗 Hugging Face](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Loop-Instruct-Int4) |
+| IQuest-Coder-V1-40B-Loop-Thinking | [🤗 Hugging Face](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Loop-Thinking) |
+| IQuest-Coder-V1-40B-Loop-Thinking-Int4 | [🤗 Hugging Face](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Loop-Thinking-Int4) |
+
 
 
 ## IQuest-Coder-V1 Highlights
