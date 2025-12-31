@@ -21,7 +21,7 @@
 
 IQuest-Coder-V1 is a new family of code large language models (LLMs) designed to advance autonomous software engineering and code intelligence. Built on the innovative code-flow multi-stage training paradigm, IQuest-Coder-V1 captures the dynamic evolution of software logic, delivering state-of-the-art performance across critical dimensions:
 
-- **State-of-the-Art Performance**: Achieves leading results on SWE-Bench Verified (81.4%), BigCodeBench (51.4%), LiveCodeBench v6 (87.0%), and other major coding benchmarks, surpassing competitive models across agentic software engineering, competitive programming, and complex tool use.
+- **State-of-the-Art Performance**: Achieves leading results on SWE-Bench Verified (81.4%), BigCodeBench (49.9%), LiveCodeBench v6 (81.1%), and other major coding benchmarks, surpassing competitive models across agentic software engineering, competitive programming, and complex tool use.
 - **Code-Flow Training Paradigm**: Moving beyond static code representations, our models learn from repository evolution patterns, commit transitions, and dynamic code transformations to understand real-world software development processes.
 - **Dual Specialization Paths**: Bifurcated post-training delivers two specialized variants—Thinking models (utilizing reasoning-driven RL for complex problem-solving) and Instruct models (optimized for general coding assistance and instruction-following).
 - **Efficient Architecture**: The IQuest-Coder-V1-Loop variant introduces a recurrent mechanism that optimizes the trade-off between model capacity and deployment footprint.
