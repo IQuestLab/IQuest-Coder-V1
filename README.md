@@ -15,7 +15,8 @@
 | IQuest-Coder-V1-40B-Instruct | [🤗 Hugging Face](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Instruct) |
 | IQuest-Coder-V1-40B-Loop-Instruct | [🤗 Hugging Face](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Loop-Instruct) |
 
-
+## Sampling Parameters:
+For the IQuest-Coder-V1-Instruct: We suggest using Temperature=0.6, TopP=0.85.
 
 ## IQuest-Coder-V1 Highlights
 
