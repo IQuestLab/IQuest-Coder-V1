@@ -8,7 +8,7 @@
 
 # IQuest-Coder-V1 Model Family
 
-🚀 [IQuest-Coder-V1 Update](https://iquestlab.github.io/release-1.0-2602/index.html): Released 7B & 14B Family Models and 40B-Thinking, specially optimized for tool use, CLI agents (Like Claude Code and OpenCode) & HTML/SVG generation, all with 128K context, now on Hugging Face!
+🚀 [[IQuest-Coder-V1 Update](https://iquestlab.github.io/release-1.0-2602/index.html)]: Released 7B & 14B Family Models and 40B-Thinking, specially optimized for tool use, CLI agents (Like Claude Code and OpenCode) & HTML/SVG generation, all with 128K context, now on Hugging Face!
 
 ## 7B Models
 
